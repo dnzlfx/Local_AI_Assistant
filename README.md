@@ -63,8 +63,8 @@ ollama pull mistral:latest
 
 ```bash
 # Clone repository
-git clone https://github.com/Chriss-devv/ai-assistant.git
-cd ai-assistant
+git clone https://github.com/dnzlfx/Local_AI_Assistant.git
+cd Local_AI_Assistant
 
 # Install dependencies
 pip install ollama ddgs
@@ -354,7 +354,7 @@ MIT License - Use, modify, and share freely.
 
 Problems or suggestions?
 
-1. Open an [issue on GitHub](https://github.com/[your-username]/ai-assistant/issues)
+1. Open an [issue on GitHub](https://github.com/dnzlfx/Local_AI_Assistant/issues)
 2. Review the [documentation](#usage)
 3. Check the [troubleshooting](#troubleshooting) section
 
