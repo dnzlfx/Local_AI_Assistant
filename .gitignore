@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Assistant runtime data (config + logs are written to ~/.ai_assistant;
+# ignore a local copy if one is ever created inside the repo)
+.ai_assistant/
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+*.swp
